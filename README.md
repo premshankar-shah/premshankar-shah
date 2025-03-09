@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FULL STACK, My SQL, etc.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Prem2412?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/premshankar-shah?tab=repositories)
 
 - 💬 Ask me about **Javascript**
 
